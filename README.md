@@ -1,4 +1,4 @@
-# Fast-Track
+# Fast-Track.
 # Face Detection Attendance System
 
 A real-time face recognition attendance system built using **OpenCV**, **Tkinter**, and **Arduino**. This project detects and recognizes faces from a webcam feed, marks attendance with timestamps, and optionally triggers Arduino-based hardware (e.g., LED indicator)
